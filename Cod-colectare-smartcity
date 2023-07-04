@@ -69,7 +69,7 @@ uint8_t error;
 uint8_t status;
 
 // define the Waspmote ID
-char moteID[] = "echipaCristinei";
+char moteID[] = "echipaCristinei-Razvan-Mihail";
 
 void setup()
 {
